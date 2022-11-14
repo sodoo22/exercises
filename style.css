@@ -40,6 +40,10 @@ body {
     width: 20px;
 }
 
+.col1 input[type=date] {
+    color: gray;
+}
+
 input {
     padding: 5px;
     width: 100%;
@@ -68,6 +72,8 @@ select {
 .col1 ::placeholder{
     color: gray;
 }
+
+
 
 .col2 ::placeholder{
     color: white;
